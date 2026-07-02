@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Secret environment variables
+.env
+
+# Local database
+db.sqlite3
+
+# Generated files
+staticfiles/
+
+# User uploads
+media/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Optional VS Code workspace settings
+.vscode/
